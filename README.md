@@ -1,7 +1,7 @@
-## Contexto
+## Context
 An abstraction of a cell phone and provides ways for different brands and models to have their own behavior, enabling greater code reuse and using object orientation.
 
-## Proposta
+## Proposal
 create a .NET console-type system, mapping an abstract class and specific classes for two types of cell phones: Nokia and iPhone.
 
 ![Diagrama classes](Imagens/diagrama.png)
