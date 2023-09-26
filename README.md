@@ -6,7 +6,7 @@ create a .NET console-type system, mapping an abstract class and specific classe
 
 ![Diagrama classes](Imagens/diagrama.png)
 
-## Regras e validações
+## Rules and validations
 1. The **Smartphone** class must be abstract, not allowing instantiation and serving only as a model.
 2. The **Nokia** and **Iphone** classes must be child classes of Smartphone.
 3. The **InstalarApplication** method must be overridden in the Nokia and iPhone classes, as both have different ways of installing an application.
