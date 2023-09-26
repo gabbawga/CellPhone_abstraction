@@ -1,0 +1,15 @@
+C:\Projetos\Abstração_de_Celular\bin\Debug\net6.0\DesafioPOO.exe
+C:\Projetos\Abstração_de_Celular\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Projetos\Abstração_de_Celular\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Projetos\Abstração_de_Celular\bin\Debug\net6.0\DesafioPOO.dll
+C:\Projetos\Abstração_de_Celular\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.dll
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Projetos\Abstração_de_Celular\obj\Debug\net6.0\ref\DesafioPOO.dll
